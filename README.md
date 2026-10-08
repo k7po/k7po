@@ -46,9 +46,11 @@ I enjoy learning by building practical projects and exploring new technologies.
 
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
+### 🏢 Residential Property Landing Page
 
-A responsive personal portfolio website designed to showcase my skills, projects, certificates, and professional profile.
+A modern landing page designed to showcase and market a residential apartment within a building.
+
+The page focuses on presenting the property, its features, and key information through a clean and responsive interface.
 
 **Technologies:** HTML · CSS · JavaScript
 
@@ -61,14 +63,16 @@ A responsive personal portfolio website designed to showcase my skills, projects
 
 ---
 
-### 📄 Personal CV
+### 💼 Personal Portfolio
 
-An interactive bilingual CV website presenting my education, technical skills, projects, certifications, and contact information.
+My personal portfolio website showcasing my background, skills, projects, certifications, and professional profile.
+
+It serves as a central place to learn more about me and explore my work.
 
 **Technologies:** HTML · CSS · JavaScript
 
 <a href="https://k7po.github.io/CV/">
-  <img src="https://img.shields.io/badge/📄%20View%20CV-2563EB?style=for-the-badge" alt="View CV"/>
+  <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-2563EB?style=for-the-badge" alt="Live Portfolio"/>
 </a>
 <a href="https://github.com/K7po/CV">
   <img src="https://img.shields.io/badge/⌨️%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
