@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=3500&pause=700&color=60A5FA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Mohammed+Alyahya;Information+Systems+Student;Data+%26+Technology+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=3500&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Mohammed+Alyahya;Information+Systems+Student;Data+%26+Technology+Enthusiast" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -14,29 +14,29 @@
 
 ## 👋 About Me
 
-I'm an **Information Systems student** interested in building practical solutions and exploring the intersection of technology, data, and cybersecurity.
+I'm an **Information Systems student** interested in data, technology, and cybersecurity.
 
-Currently focusing on:
+I'm currently developing my skills in:
 
 * 📊 Data Analysis & Business Intelligence
 * 🗄️ Data Engineering & Data Management
 * 🔐 Cybersecurity
-* 🤖 AI & emerging technologies
-* 💻 Software & system development
+* 🤖 Artificial Intelligence
+* 💻 Software & System Development
 
-I enjoy turning ideas into working projects and learning by building.
+I enjoy learning by building practical projects and exploring new technologies.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Tools
 
 ### Languages & Development
 
-[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,sql,html,css,js)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,dart,flutter,html,css,js)](https://skillicons.dev)
 
-### Tools & Platforms
+### Databases & Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,git,github,docker,linux,vscode)](https://skillicons.dev)
 
 ### Currently Learning
 
@@ -46,27 +46,27 @@ I enjoy turning ideas into working projects and learning by building.
 
 ## 🚀 Featured Projects
 
-### 📱 Lammah
+### 🌐 Personal Portfolio
 
-A Flutter-based application for organizing football and padel sessions, managing invitations, and creating teams.
+My personal portfolio website showcasing my background, skills, projects, and professional profile.
 
-**Tech:** Flutter · Dart
+**Technologies:** HTML · CSS · JavaScript
 
----
-
-### 🗄️ Abo-Yahya Archive
-
-A personal media archiving system focused on organizing and preserving Twitch and Kick streams with metadata and structured storage.
-
-**Tech:** Docker · Linux · Web Technologies
+<a href="https://github.com/K7po/F">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
 
 ---
 
-### 🎓 Field Training System
+### 📄 CV
 
-A university project designed to manage field-training information and related workflows.
+My online CV presenting my education, skills, projects, and professional interests.
 
-**Tech:** System Analysis · Database · Information Systems
+**Technologies:** HTML · CSS
+
+<a href="https://github.com/K7po/CV">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
 
 ---
 
@@ -85,7 +85,7 @@ A university project designed to manage field-training information and related w
 
 ## 🎓 Certifications & Learning
 
-Currently building my professional profile through:
+I'm currently building my professional profile through certifications and structured learning in:
 
 * 📊 Data Analytics
 * 📈 Business Intelligence
@@ -93,35 +93,34 @@ Currently building my professional profile through:
 * 🔐 Cybersecurity
 * 📋 Project Management
 
-More certifications and projects coming soon.
-
 ---
 
 ## 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/K7po">
+    <img src="https://img.shields.io/badge/GitHub-K7po-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<a href="https://github.com/K7po">
-<img src="https://img.shields.io/badge/GitHub-K7po-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  <a href="https://www.linkedin.com/in/mohammed-alyahya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Alyahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/mohammed-alyahya/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Alyahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://x.com/3Aly7ya">
-<img src="https://img.shields.io/badge/X-3Aly7ya-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-
+  <a href="https://x.com/3Aly7ya">
+    <img src="https://img.shields.io/badge/X-3Aly7ya-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Open to Opportunities
+## 📄 Resume
 
-I'm interested in opportunities related to:
+> [!IMPORTANT]
+> You can view my latest CV through my portfolio.
 
-**Data Analysis · Data Engineering · Information Systems · Cybersecurity · Technology**
+<a href="https://github.com/K7po/CV">
+  <img src="https://img.shields.io/badge/View%20My%20CV-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View CV"/>
+</a>
 
 ---
 
