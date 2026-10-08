@@ -48,27 +48,32 @@ I enjoy learning by building practical projects and exploring new technologies.
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio website showcasing my background, skills, projects, and professional profile.
+A responsive personal portfolio website designed to showcase my skills, projects, certificates, and professional profile.
 
 **Technologies:** HTML · CSS · JavaScript
 
+<a href="https://k7po.github.io/F/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-2563EB?style=for-the-badge" alt="Live Demo"/>
+</a>
 <a href="https://github.com/K7po/F">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  <img src="https://img.shields.io/badge/⌨️%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 ---
 
-### 📄 CV
+### 📄 Personal CV
 
-My online CV presenting my education, skills, projects, and professional interests.
+An interactive bilingual CV website presenting my education, technical skills, projects, certifications, and contact information.
 
-**Technologies:** HTML · CSS
+**Technologies:** HTML · CSS · JavaScript
 
+<a href="https://k7po.github.io/CV/">
+  <img src="https://img.shields.io/badge/📄%20View%20CV-2563EB?style=for-the-badge" alt="View CV"/>
+</a>
 <a href="https://github.com/K7po/CV">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  <img src="https://img.shields.io/badge/⌨️%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
----
 
 ## 📊 GitHub Stats
 
