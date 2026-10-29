@@ -71,10 +71,10 @@ It serves as a central place to learn more about me and explore my work.
 
 **Technologies:** HTML · CSS · JavaScript
 
-<a href="https://k7po.github.io/CV/">
+<a href="https://k7po.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-2563EB?style=for-the-badge" alt="Live Portfolio"/>
 </a>
-<a href="https://github.com/K7po/CV">
+<a href="https://github.com/K7po/Portfolio">
   <img src="https://img.shields.io/badge/⌨️%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
